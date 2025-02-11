@@ -15,7 +15,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/rs/xid v1.6.0
-	github.com/urfave/cli v1.22.16
+	github.com/urfave/cli/v2 v2.27.5
 	github.com/urfave/cli/v2 v2.27.5
 	github.com/vektah/gqlparser/v2 v2.5.22
 	golang.org/x/image v0.24.0
